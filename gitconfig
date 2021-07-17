@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ejcervera@gmail.com
+	name = eduardo cervera
